@@ -1,6 +1,6 @@
 ### @explicitHints 1
 
-# Activity: Yellow Brick Road
+# 활동: 황금길 <!-- Activity: Yellow Brick Road -->
 
 ## Step 1 
 Listening for the walk event. Drag the ``||Player: on player walk||`` block into the coding workspace.
